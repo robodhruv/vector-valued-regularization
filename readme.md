@@ -1,7 +1,9 @@
 # Vector-Valued Image Regularization using PDEs
 
-### <i>CS663 - Digital Image Processing, Autumn 2017 </i>
+### CS663 - Digital Image Processing, Autumn 2017
+#### [Dhruv Ilesh Shah](https://github.com/PrieureDeSion/), [Dhanvi Sreenivasan](https://github.com/dhanvi97) and [Bhavesh Thakkar](https://github.com/bhavesh2109)
 <hr>
+
 
 
 ![Inpainting](Results/parrot.png)
